@@ -49,7 +49,7 @@
             else: 
                 pass
 
-    # very inefficient (for demonstration purposes) :smirk:
+    # very inefficient (for demonstration purposes) 😏
     instance = Life("Khalil Bohner", 16, "Chapeco - Santa Catarina - Brasil")
     instance.wealth_check()
     instance.name_check()
