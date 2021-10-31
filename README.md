@@ -11,11 +11,8 @@
 
  def main():
     class Life:
-        def __init__(self, name, age, location):
+        def __init__(self):
             self.game_difficulty = 0
-            self.name = name
-            self.age = age
-            self.location = location
 
         def evaluate_spawnPoint(self, spawnPoint):
             if "Brasil" in spawnPoint:
@@ -27,7 +24,8 @@
             else:
                 self.game_difficulty -= 20
 
-        def name_check(self):
+        def name_check(self, name):
+            print(name)
             answer = input("Is your name ordinary?").strip()
             if answer.lower() == "yes":
                 self.game_difficulty -=10
@@ -48,14 +46,13 @@
                 self.game_difficulty += 7
             else: 
                 pass
-
-    # very inefficient (for demonstration purposes) 😏
-    instance = Life("Khalil Bohner", 16, "Chapeco - Santa Catarina - Brasil")
-    instance.wealth_check()
-    instance.name_check()
-    instance.evaluate_age(instance.age)
-    instance.evaluate_spawnPoint(instance.location)
-    instance.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
+                
+    Life = Life()
+    Life.wealth_check()
+    Life.name_check('Khalil Bohner')
+    Life.evaluate_age(16)
+    Life.evaluate_spawnPoint("Chapeco - Santa Catarina - Brasil")
+    Life.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
     print(instance.game_difficulty)
 
 if __name__ == "__main__":
