@@ -53,7 +53,7 @@
     Life.evaluate_age(16)
     Life.evaluate_spawnPoint("Chapeco - Santa Catarina - Brasil")
     Life.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
-    print(instance.game_difficulty)
+    print(Life.game_difficulty)
 
 if __name__ == "__main__":
     main()
