@@ -42,8 +42,6 @@
 
             if len(despairArray) >= 2:
                 self.game_difficulty += 7
-            else: 
-                pass
                 
     Life = Life()
     Life.wealth_check()
