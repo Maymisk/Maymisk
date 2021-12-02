@@ -36,8 +36,6 @@
             answer = input("Are you or your family rich?").strip()
             if answer.lower() == "yes":
                 self.game_difficulty -= 10000000
-            else:
-                pass
 
         def uneventfulLifeCheck(self, *args):
             despairArray = [*args]
