@@ -59,7 +59,7 @@ guess i'm playing on 102 😥
 
 Also, my last name is a pun..
   <div>
-  <img src="https://c.tenor.com/hz2ra-yKSR0AAAAd/like-it-says-in-the-book-blessed-and-cursed.gif" width=250px>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/40aR6XjmKe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   
 <hr>
