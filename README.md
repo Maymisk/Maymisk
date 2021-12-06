@@ -57,7 +57,7 @@ if __name__ == "__main__":
 ```
 guess i'm playing on 102 😥
 
-Also, my last name is a pun.. bohner..
+Also, my last name is a pun..
   <div>
   <img src="https://c.tenor.com/hz2ra-yKSR0AAAAd/like-it-says-in-the-book-blessed-and-cursed.gif" width=250px>
   </div>
