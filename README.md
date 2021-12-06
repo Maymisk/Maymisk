@@ -58,9 +58,6 @@ if __name__ == "__main__":
 guess i'm playing on 102 😥
 
 Also, my last name is a pun..
-  <div>
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/40aR6XjmKe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
   
 <hr>
 
