@@ -43,13 +43,13 @@
             if len(despairArray) >= 2:
                 self.game_difficulty += 7
                 
-    Life = Life()
-    Life.wealth_check()
-    Life.name_check('Khalil Bohner')
-    Life.evaluate_age(16)
-    Life.evaluate_spawnPoint("Chapeco - Santa Catarina - Brasil")
-    Life.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
-    print(Life.game_difficulty)
+    life = Life()
+    life.wealth_check()
+    life.name_check('Khalil Bohner')
+    life.evaluate_age(16)
+    life.evaluate_spawnPoint("Chapeco - Santa Catarina - Brasil")
+    life.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
+    print(life.game_difficulty)
 
 if __name__ == "__main__":
     main()
