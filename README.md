@@ -1,63 +1,67 @@
-  <img src="https://giffiles.alphacoders.com/111/111890.gif" width=1000px height=500px>
- 
-- 👋 I'm Khalil! (don't mispronounce it 😤)
+ - 👋 I'm Khalil
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on anything that improves my coding skills 🚩
-- 🗿  Top tier procrastination material: games + anime 🔥
 - 🗽  I wanna leave my country (badly)
 - 💢 Fluent in english! 
 
-```python
+```typescript
 
- def main():
-    class Life:
-        def __init__(self):
-            self.game_difficulty = 0
+ function main() {
+   
+    interface ILife {
+      evaluateSpawnPoint(spawnPoint: string): void;
+      evaluateAge(age: number): void;
+      evaluateName(name: string): void;
+      uneventfulLifeCheck(...args: string[]): void;
+    }
 
-        def evaluate_spawnPoint(self, spawnPoint):
-            if "Brasil" in spawnPoint:
-                self.game_difficulty += 100
+    class Life implements ILife {
+        game_difficulty = 0
 
-        def evaluate_age(self, age):
-            if age >= 18:
-                self.game_difficulty += 20
-            else:
-                self.game_difficulty -= 20
+        evaluateSpawnPoint(spawnPoint: string): void {
+            if (spawnPoint.includes('Brasil')) {
+                this.game_difficulty += 100
+            }
+        }
 
-        def name_check(self, name):
-            print(name)
-            answer = input("Is your name ordinary?").strip()
-            if answer.lower() == "yes":
-                self.game_difficulty -=10
-            else:
-                self.game_difficulty += 15
+        evaluateAge(age: number): void {
+            age >= 18 ? this.game_difficulty += 20 : this.game_difficulty -= 20
+        }
 
-        def wealth_check(self):
-            answer = input("Are you or your family rich?").strip()
-            if answer.lower() == "yes":
-                self.game_difficulty -= 10000000
+        evaluateName(name: string): void {
+            const answer = prompt("Is your name ordinary?")?.trim()
 
-        def uneventfulLifeCheck(self, *args):
-            despairArray = [*args]
+            if (answer?.toLowerCase() == "yes") {
+                this.game_difficulty -=10
+                return
+            }
 
-            if len(despairArray) >= 2:
-                self.game_difficulty += 7
+            this.game_difficulty += 15
+        }
+
+        uneventfulLifeCheck(...args: string[]): void {
+            const nerdyHobbies = args
+
+            if (nerdyHobbies.length >= 2 ) {
+                this.game_difficulty += 7
+            }
+        }
+    }
                 
-    life = Life()
-    life.wealth_check()
+    const life = new Life()
     life.name_check('Khalil Bohner')
     life.evaluate_age(16)
     life.evaluate_spawnPoint("Chapeco - Santa Catarina - Brasil")
     life.uneventfulLifeCheck("https://store.steampowered.com", "https://www.crunchyroll.com")
-    print(life.game_difficulty)
+    console.log(life.game_difficulty)
+}
 
-if __name__ == "__main__":
-    main()
+main()
 
 ```
-guess i'm playing on 102 😥
+difficulty: 102 😥
 
-Also, my last name is a pun..
+dont mind my last name
   
 <hr>
 
