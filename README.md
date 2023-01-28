@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">Khalil Bohner</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&pause=250&color=F73636&background=FF008F00&center=true&vCenter=true&repeat=false&width=475&height=30&lines=The+guy+with+the+incovenient+last+name+😩;Full-stack+web+developer+🍁" alt="Typing SVG" /></a>
+</p>
+
+#
+
+
+
 
 <!--
 **Maymisk/Maymisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
