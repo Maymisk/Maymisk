@@ -17,7 +17,7 @@
   <img align="left" width="100px" height="100px" src="https://codetru.com/images/all/nodejsdis.gif" />
   <img align="left" width="100px" height="100px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
   <img align="left" width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonTMpvxzdyNABkx2DY2aYDnXH_thwPdqHog&usqp=CAU" />
-  <img width="130px" height="100px" src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" />
+  <img width="100px" height="100px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
 </div>
 
 <br />
