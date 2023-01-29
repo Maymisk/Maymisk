@@ -7,7 +7,6 @@
 </p>
 
 <br />
-<br />
 
 <h3 align="center">🛠 my favorite languages and tools</h3>
 
