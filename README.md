@@ -11,13 +11,12 @@
 ### 🛠 my favorite languages and tools
 
 <div>
-   <img align="left" width="100px" height="100px" src ="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
+  <img align="left" width="100px" height="100px" src ="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
   <img align="left" width="100px" height="100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img align="left" width="100px" height="100px" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" />
   <img align="left" width="100px" height="100px" src="https://codetru.com/images/all/nodejsdis.gif" />
   <img align="left" width="100px" height="100px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
   <img align="left" width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonTMpvxzdyNABkx2DY2aYDnXH_thwPdqHog&usqp=CAU" />
-  <img align="left" width="100px" height="100px" src ="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <img width="130px" height="100px" src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" />
 </div>
 
