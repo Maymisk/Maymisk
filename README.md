@@ -19,7 +19,7 @@
   <img align="left" width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonTMpvxzdyNABkx2DY2aYDnXH_thwPdqHog&usqp=CAU" />
   <img align="left" width="100px" height="100px" src ="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <img align="center" width="100px" height="100px" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" />
-  <img width="100px" height="100px" src ="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
+  <img align="center" width="100px" height="100px" src ="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
 </div>
 
 <br />
