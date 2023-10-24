@@ -14,7 +14,7 @@
   <img align="center" width="100px" height="100px" src ="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
   <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img align="center" width="100px" height="100px" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" />
-  <img align="center" width="100px" height="100px" src="https://codetru.com/images/all/nodejsdis.gif" />
+  <img align="center" width="100px" height="100px" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" />
   <img align="center" width="100px" height="100px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
   <img align="center" width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonTMpvxzdyNABkx2DY2aYDnXH_thwPdqHog&usqp=CAU" />
   <img align="center" width="100px" height="100px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
