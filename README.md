@@ -15,8 +15,8 @@
   <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img align="center" width="100px" height="100px" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" />
   <img align="center" width="100px" height="100px" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" />
-  <img align="center" width="100px" height="100px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
-  <img align="center" width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonTMpvxzdyNABkx2DY2aYDnXH_thwPdqHog&usqp=CAU" />
+  <img align="center" width="100px" height="100px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" />
+  <img align="center" width="100px" height="100px" src="https://camo.githubusercontent.com/ca6a7707bbee1f3b426880e38a6d4399319184c620f5ef39a2dd8caf63647f92/68747470733a2f2f6769742e696e6672612d6c61622e78797a2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34362f646f636b65722d6769662d342e6769663f77696474683d3634" />
   <img align="center" width="100px" height="100px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
 </div>
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 🗿 stats
+### stats
 
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
